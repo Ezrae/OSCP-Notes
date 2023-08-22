@@ -1,3 +1,3 @@
-*OSCP Notes*
+**OSCP Notes**
 
 Put notes here...
